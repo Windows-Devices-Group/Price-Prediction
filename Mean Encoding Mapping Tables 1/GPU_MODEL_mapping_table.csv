@@ -1,0 +1,192 @@
+GPU_MODEL,GPU_MODEL_mean_encoded
+amd integrated graphics,510.0
+amd radeon 520,854.6
+amd radeon 530,689.2727272727273
+amd radeon 540,1006.6692857142858
+amd radeon 540x,148.0
+amd radeon 610m,468.75125
+amd radeon 6600m,1287.9564285714284
+amd radeon 660m,991.845
+amd radeon 680m,1518.2917094017093
+amd radeon 780m,1249.15
+amd radeon graphics,682.6653685185186
+amd radeon pro wx 3100,630.0
+amd radeon r4,809.2692307692307
+amd radeon r5,776.4984615384615
+amd radeon r5 m335,3.0
+amd radeon r7,657.529375
+amd radeon r7 m270,1013.0
+amd radeon r7 m445,600.0
+amd radeon rx 540,349.0
+amd radeon rx 5500m,839.1283783783783
+amd radeon rx 5600m,1028.8023529411764
+amd radeon rx 560x,663.2130434782608
+amd radeon rx 580,691.0
+amd radeon rx 6500m,825.0854545454546
+amd radeon rx 6550m,826.6533333333333
+amd radeon rx 6600 xt,1774.668888888889
+amd radeon rx 6650m,1001.681111111111
+amd radeon rx 6700m,1225.1936363636362
+amd radeon rx 6700s,1252.915
+amd radeon rx 6800m,1450.2136363636364
+amd radeon rx 6800s,1820.2906382978724
+amd radeon rx 7600s,1018.4666666666667
+amd radeon rx vega 10,500.1609375
+amd radeon rx vega 11,1729.7330000000002
+amd radeon rx vega 5,1109.0
+amd radeon rx vega 6,576.4701754385966
+amd radeon rx vega 8,741.28248
+amd radeon rx vega 870,1346.84375
+amd radeon rx vega m gl,890.0
+amd radeon vega,759.2308181818182
+amd radeon vega 10,586.860588235294
+amd radeon vega 6,425.1840677966102
+amd radeon vega 7,710.174
+amd radeon vega 8,502.4795918367347
+amd radeon vega 9,1022.5741139240506
+ati radeon hd 6850m,809.0
+ati radeon hd 6970m,1595.0
+ati radeon hd 7690m,685.0
+ati radeon hd 7850m,682.0
+intel arc a350m graphics,1532.7607142857144
+intel arc a370m graphics,1181.6007462686566
+intel hd graphics,799.694938271605
+intel hd graphics 4000,455.6666666666667
+intel hd graphics 4400,363.88162162162166
+intel hd graphics 4600,464.44545454545454
+intel hd graphics 5000,400.15621621621625
+intel hd graphics 515,317.6666666666667
+intel hd graphics 520,422.39130923694785
+intel hd graphics 530,695.8905376344086
+intel hd graphics 5500,368.50004975124375
+intel hd graphics 615,996.9117647058823
+intel hd graphics 620,544.8265291262136
+intel hd graphics 630,780.9390476190476
+intel integrated graphics,504.2143373493976
+intel iris graphics 5100,1187.9285714285713
+intel iris graphics 540,365.4624
+intel iris plus graphics,958.4405092592592
+intel iris plus graphics 640,834.5
+intel iris plus graphics 950,845.258
+intel iris plus graphics g7,949.25
+intel iris xe graphics,969.0841419673538
+intel iris xe max graphics,910.392987012987
+intel uhd graphics,547.08578465063
+intel uhd graphics 600,326.70217391304345
+intel uhd graphics 605,861.0
+intel uhd graphics 610,400.0
+intel uhd graphics 615,795.20425
+intel uhd graphics 620,633.0159969028261
+intel uhd graphics 630,756.7919999999999
+intel uhd graphics 750,715.0
+intel uhd graphics 770,249.01
+intel uhd graphics g1,444.48833333333334
+intel uma,557.0
+not provided,1078.3058457711443
+nvdia rtx a1000,2228.254605263158
+nvidia geforce,476.39428571428573
+nvidia geforce 820m,50.0
+nvidia geforce 8400m gs,25.0
+nvidia geforce 840m,1050.0
+nvidia geforce 920mx,627.0
+nvidia geforce 930m,858.0
+nvidia geforce 930mx,175.0
+nvidia geforce 940m,672.0
+nvidia geforce 940mx,762.8932000000001
+nvidia geforce gt330m,699.0
+nvidia geforce gt540m,1010.0
+nvidia geforce gt650m,399.0
+nvidia geforce gt750m,1861.3016666666665
+nvidia geforce gtx 1050,1212.7379741379311
+nvidia geforce gtx 1050 ti,978.8467741935484
+nvidia geforce gtx 1060,1472.4013461538461
+nvidia geforce gtx 1070,1596.9785714285715
+nvidia geforce gtx 1080,2334.1666666666665
+nvidia geforce gtx 1650,912.9664049195837
+nvidia geforce gtx 1650 max-q,1118.9001666666666
+nvidia geforce gtx 1650ti,1256.93862332696
+nvidia geforce gtx 1650ti max-q,1546.0783333333331
+nvidia geforce gtx 1660 ti,1190.776917293233
+nvidia geforce gtx 675m,1571.5
+nvidia geforce gtx 765m,2167.0
+nvidia geforce gtx 860m,1416.0
+nvidia geforce gtx 950m,1002.5
+nvidia geforce gtx 960m,893.6666666666666
+nvidia geforce gtx 965m,1044.0
+nvidia geforce gtx 970m,972.6
+nvidia geforce gtx 980m,1404.25
+nvidia geforce gtx gpu,1280.0
+nvidia geforce mx130,739.0
+nvidia geforce mx150,1159.6540983606556
+nvidia geforce mx250,1063.267198275862
+nvidia geforce mx330,1110.385238095238
+nvidia geforce mx350,811.799928057554
+nvidia geforce mx450,994.5849076517151
+nvidia geforce mx550,1108.7522368421053
+nvidia geforce mx570,939.8499999999999
+nvidia geforce rtx 2050,938.5354545454545
+nvidia geforce rtx 2060,1394.580507936508
+nvidia geforce rtx 2060 max-q,1366.6256
+nvidia geforce rtx 2070,1784.1479810725552
+nvidia geforce rtx 2070 max-q,1643.2867073170733
+nvidia geforce rtx 2070 super,1870.8112041884817
+nvidia geforce rtx 2070 super max-q,1533.46875
+nvidia geforce rtx 2080,2637.5095555555554
+nvidia geforce rtx 2080 super,2574.3054166666666
+nvidia geforce rtx 2080 super max-q,1869.9375
+nvidia geforce rtx 3050,1074.5333800127307
+nvidia geforce rtx 3050 max-q,1055.0
+nvidia geforce rtx 3050 ti,1197.3047046523784
+nvidia geforce rtx 3060,1472.8908364629565
+nvidia geforce rtx 3060 ti,1168.3638461538462
+nvidia geforce rtx 3070,1736.6610949868075
+nvidia geforce rtx 3070 ti,2084.515812603648
+nvidia geforce rtx 3080,2498.1314472123368
+nvidia geforce rtx 3080 ti,3045.7026379310346
+nvidia geforce rtx 4050,1338.7709
+nvidia geforce rtx 4060,1596.7617647058823
+nvidia geforce rtx 4070,2070.0479452054797
+nvidia geforce rtx 4080,3133.7567532467533
+nvidia geforce rtx 4090,3879.383069306931
+nvidia mx230,745.9276086956521
+nvidia quadro m1000m,647.2663636363636
+nvidia quadro m1200,659.1338235294118
+nvidia quadro m2000m,1126.0
+nvidia quadro m2200,696.4444444444445
+nvidia quadro m520,772.5
+nvidia quadro m620,614.8355555555556
+nvidia quadro p1000,868.6589583333333
+nvidia quadro p2000,1259.0
+nvidia quadro p3000,1043.2
+nvidia quadro p3200,1063.0227272727273
+nvidia quadro p500,986.2053846153847
+nvidia quadro p520,1900.3333333333333
+nvidia quadro p600,1000.0
+nvidia quadro p620,1222.5
+nvidia quadro rtx 3000,2727.661551724138
+nvidia quadro rtx 4000,4304.5
+nvidia quadro rtx 5000,3553.5306976744187
+nvidia quadro rtx 6000,10054.0
+nvidia quadro t1000,1666.7058823529412
+nvidia quadro t1200,1380.438125
+nvidia quadro t2000,1813.7975
+nvidia quadro t500,1933.7695890410957
+nvidia rtx 2000 ada,3237.5
+nvidia rtx 3500,4710.0
+nvidia rtx 4000,4700.4
+nvidia rtx a2000,2561.994958677686
+nvidia rtx a3000,2846.3664179104476
+nvidia rtx a4000,3233.415
+nvidia rtx a4500,4650.0
+nvidia rtx a500,2023.7150000000001
+nvidia rtx a5000,4059.9316071428575
+nvidia rtx a5500,3567.2966666666666
+nvidia t1200,2358.3592000000003
+nvidia t550,2033.01
+nvidia t600,1797.5522666666668
+radeon hd graphics,415.633
+radeon pro wx 4130,274.5
+radeon pro wx 4150,571.0
+radeon rx 6700xt,1158.6014285714286
+radeon vega 3,308.99324766355136
+unknown,1429.724
